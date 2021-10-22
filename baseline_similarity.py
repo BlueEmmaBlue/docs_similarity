@@ -37,7 +37,7 @@ def cal_similarity(x, y): # 向量x和y的余弦相似度计算
 
 
 file = []
-f = open("/Users/mac/Desktop/mip_hw/mip_hw/code/199801_clear.txt",
+f = open("/Users/mac/Documents/docs_similarity/test.txt",
          "r", encoding="gbk")
 file = f.read()
 f.close()
